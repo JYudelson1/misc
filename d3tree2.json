@@ -718,7 +718,7 @@
                                           {"name": "django"},
                                           {"name": "browserify"},
                                           {"children": [{"name": "microsoft_windows_sysprep"}],
-                                           "name": 'microsoft_windows"},
+                                           "name": "microsoft_windows"},
                                           {"name": "pandas"},
                                           {"name": "wcf_services"},
                                           {"name": "jetbrains_intellij_idea"},
